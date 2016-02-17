@@ -1,3 +1,2 @@
 # fewd80.github.io
-Joe Johnson Resume
-a two page resume exercise file - FEWD 80, General Assembly
+Joe Johnson Resume is a two page resume exercise file. (Lesson 02 for FEWD 80 class at General Assembly NYC)
